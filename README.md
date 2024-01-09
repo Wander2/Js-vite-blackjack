@@ -1,4 +1,4 @@
-#Blackjack vite
+# Blackjack vite
 
 paso para ejecutar proyecto:
 
@@ -6,7 +6,7 @@ paso para ejecutar proyecto:
 2. ejecutar ```npm install``` para reconstruir los modulos de node 
 3. correr el devServer ```npm run dev```
    
-##Produccion
+## Produccion
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
